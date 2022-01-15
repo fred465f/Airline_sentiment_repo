@@ -7,7 +7,9 @@ In this project i analysed data regarded Twitter reviews of US Airlines, and use
  - pandas
  - csv
 
-The python library sqlite3 was used to write sqlite commands to query the database, 'database.sqlite', downloaded from kaggle, https://www.kaggle.com/crowdflower/twitter-airline-sentiment, and originaly collected at Crowdflower's Data for Everyone library. Pandas was used to import the tables - that were created by the queries and uploaded with the csv library. 
+The python library sqlite3 was used to write sqlite commands to query the database, 'database.sqlite', downloaded from kaggle, 
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment, and originaly collected at Crowdflower's Data for Everyone library. 
+Pandas was used to import the tables - that were created by the queries and uploaded with the csv library. 
 
 The number of positive, neutral and negative number of reviews, grouped by each arline were calculated and visualised with seaborn:
 
